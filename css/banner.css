@@ -1,0 +1,40 @@
+/* .homepagebanner {
+  background-image: url(../images/Vector\ 2.png);
+  background-repeat: no-repeat;
+  background-size: 50%;
+  background-position: center;
+  background-attachment: fixed;
+  height: 100vh;
+  position: relative;
+}
+
+.homepagebanner::before {
+  content: "";
+  position: absolute;
+  top: 20px;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.herocontainer {
+  padding: 1em 8em 6em 8em;
+  display: flex;
+  position: absolute;
+}
+
+.right-box {
+  padding-left: 50px;
+  display: flex;
+  align-items: center;
+}
+.small-rectangle {
+  margin: 378px 2px 2px 0;
+  width: 140px;
+  height: 140px;
+  background-color: #ecb43e;
+  position: relative;
+}
+.rectengle {
+  width: 30%;
+  background: #ecb43e;
+} */
